@@ -19,6 +19,7 @@ nav {
     box-shadow: 2px 2px 5px #e6dcdc;
     position: fixed;
     z-index: 1; 
+    width: 100%;
   }
 
   
